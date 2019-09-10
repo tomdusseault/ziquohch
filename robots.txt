@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aidohnaura.dancurrie.ca/sitemap.xml
